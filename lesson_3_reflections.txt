@@ -12,3 +12,10 @@ Describe the differences between forks, clones, and branches. When would you use
 What is the benefit of having a copy of the last known state of the remote stored locally?
 	In this way you can do locally changes when you're offline and go on merging remote changes when you come back online.
 	This helps, besides, when collaborating with others to the same project, and you have to compare the last known state of the remote with your local changes.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+	Until now I've collaborated only for one project, but not knowing how to do it through GitHub. I've copied pieces of code and merged manually them into my projects, testing them and creating a new version of my original code. Besides, we have messaged each others using the users forum.
+	Now I know how to do it in a better and faster way through GitHub.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+	Making changes in a separate branch gives to your project the chance to have some experimental features to try before merging them into the official branch. Besides, in this way, it is possible to create one or more pull requests, asking the help of other collaborators to check these changes on separate branches. When they'll finish checking them, it'll be possible to merge them into the master branch, letting grow the project.
